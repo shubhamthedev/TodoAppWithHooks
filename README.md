@@ -2,7 +2,7 @@
 
 - This app is made using the newest react hooks i.e. without using any class based components
 - I'll be adding more to this in the future
-  ![image](https://i.imgur.com/cmy54R6.png)
+  ![image](https://i.imgur.com/f1jyT38.png)
 
 ## Available Scripts
 
