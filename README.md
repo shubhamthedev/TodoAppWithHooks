@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Todo App using React Hooks
+
+- This app is made using the newest react hooks i.e. without using any class based components
+- I'll be adding more to this in the future
+  ![image](https://i.imgur.com/cmy54R6.png)
 
 ## Available Scripts
 
